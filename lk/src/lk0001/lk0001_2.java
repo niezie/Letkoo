@@ -1,3 +1,7 @@
+package lk0001;
+
+import lk0001.lk0001_1;
+
 import java.util.HashMap;
 
 public class lk0001_2 {
